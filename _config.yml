@@ -56,7 +56,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author_profile: false
 author:
   # name   : "First Lastname"
   # avatar : "/assets/images/bio-photo.jpg"
@@ -94,7 +93,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
       share: false
