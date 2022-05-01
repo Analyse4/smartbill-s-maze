@@ -18,6 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   smartbill's maze
 logo: "/assets/images/logo.png"
+show_date: true
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
