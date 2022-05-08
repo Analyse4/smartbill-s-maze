@@ -18,4 +18,4 @@ tags:
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>-->
 <!--[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)-->
-![foo](https://github.com/Analyse4/smartbill-s-maze/blob/7774f674dcdb75b2f54a47d7c19e104b36fb67b2/assets/images/reading-notes/DDIA/6/Designing-Data-Intensive-Applications-6-Partioning.png)
+![foo](/assets/images/reading-notes/DDIA/6/Designing-Data-Intensive-Applications-6-Partioning.png?raw=true "Optional Title")
