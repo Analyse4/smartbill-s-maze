@@ -17,4 +17,5 @@ tags:
 	<img src="/assets/images/bio-photo.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>-->
-[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)
+<!--[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)-->
+![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)
